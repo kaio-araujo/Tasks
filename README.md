@@ -9,6 +9,7 @@ Technology Used:
   - SwiftUI
   - DatePicker
   
+  ![](https://github.com/Guanais/Tasks/blob/origin/DELETE_ME/Tasks.gif?raw=true)
   
   
 
